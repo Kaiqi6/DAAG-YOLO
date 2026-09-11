@@ -1,0 +1,26 @@
+{
+  "dataset": "DAAG-YOLO",
+  "content": "Images only",
+  "prepared_date": "2026-09-12",
+  "image_format": "JPEG",
+  "images": 1536,
+  "image_bytes": 1100588948,
+  "splits": {
+    "train": {
+      "images": 1075,
+      "bytes": 770557511
+    },
+    "val": {
+      "images": 231,
+      "bytes": 165855391
+    },
+    "test": {
+      "images": 230,
+      "bytes": 164176046
+    }
+  },
+  "checksum_algorithm": "SHA-256",
+  "checksum_manifest": "manifest.sha256",
+  "checksum_manifest_scope": "All 1536 JPG images; basic documentation is excluded.",
+  "images_verified_against_source": 1536
+}

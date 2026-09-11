@@ -1,0 +1,9 @@
+labels/
+dirs/
+grasps/
+grasp_regions/
+*.yaml
+*.cache
+__pycache__/
+.DS_Store
+Thumbs.db
